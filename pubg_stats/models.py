@@ -1,7 +1,6 @@
 from django.db import models
 import requests
 
-API_KEY = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIzNDEyODZiMC0yMWZlLTAxMzYtYWEyMy0wMTkzZDc2NDgxOTEiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNTIzNzAyNDQyLCJwdWIiOiJibHVlaG9sZSIsInRpdGxlIjoicHViZyIsImFwcCI6Imdyb3ciLCJzY29wZSI6ImNvbW11bml0eSIsImxpbWl0IjoxMH0.8FNftKmslWR6t2UHDH9Xui4FBgVpDDrlvx7XnwfGO9A"
 BASE_URL = "https://api.playbattlegrounds.com/{}"
 
 
